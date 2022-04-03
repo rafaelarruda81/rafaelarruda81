@@ -1,4 +1,4 @@
-## <p align="center">Bem vindos ao meu GitHub!</p> <p align="center"><i>Me chamo Rafael Arruda e sou estudante de Front-End (HTML, CSS e JavaScript).</i></p>
+## <p align="center">Bem vindos ao meu GitHub!</p> <p align="center"><i>Me chamo <b>Rafael Arruda</b> e sou estudante de Front-End (HTML, CSS e JavaScript).</i></p>
 <div align="center">
   <a href="https://github.com/rafaelarruda81">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelarruda81&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
